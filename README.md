@@ -1,4 +1,10 @@
-# Hallo👋 , Nama Saya Arman 
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Sir+Arman+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Fullstack+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+Indonesia+🇮🇩;Tech+Enthustiast;Cybersecurity+Advocate+%F0%9F%93%88;Please+Support+Subscribe+and+Follow+%E2%9A%99%EF%B8%8F" alt="" width="650" height="55">
+
+
+
+<br><p align="left"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
+<p align="left"><img align="center" src="https://profile-counter.glitch.me/{ArmanGG01}/count.svg"/></p>
+ 
 
 
 ### <img src="https://media.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif" width="50"> sᴛᴀᴛs:
